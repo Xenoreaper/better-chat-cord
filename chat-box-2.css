@@ -1,0 +1,38 @@
+/**
+ * @name ChatBox2.0
+ * @version 2.0.0
+ * @author Xenoreaper
+ * @description Hide those nasty unnessecary chat buttons.
+ * @source https://github.com/Xenoreaper/better-chat-cord
+ * @website https://github.com/Xenoreaper
+*/
+
+/* Gift Button */
+[aria-label="Send a gift"] {
+    display: none;
+}
+
+/* Gif Button */
+/* [aria-label="Open GIF picker"] {
+    display: none;
+} */
+
+/* Sticker Button */
+[aria-label="Open sticker picker"] {
+    display: none;
+}
+
+/* Emoji Button */
+/* [aria-label="Select emoji"] {
+    display: none;
+} */
+
+/* Nitro Menu */
+/* .container_efde15, .channel__972a0:nth-child(5) {
+    display: none;
+} */
+
+/* Shop Menu */
+.container_efde15, .channel__972a0:nth-child(6) {
+    display: none;
+}
