@@ -1,11 +1,19 @@
 /**
  * @name Better ChatBox
- * @version 2.1.0
+ * @version 2.2.0
  * @author Xenoreaper
  * @description Hide those nasty unnessecary chat buttons.
  * @source https://github.com/Xenoreaper/better-chat-cord
  * @website https://github.com/Xenoreaper
 */
+
+/* Chat Box */
+
+/* Message Options / Attachments Button */
+/* Uncomment to hide the message options button */
+/* [aria-label="More message options"] {
+    display: none;
+} */
 
 /* Gift Button */
 /* Uncomment to hide the gift button */
@@ -34,6 +42,20 @@
 /* Emoji Button */
 /* Uncomment to hide the emoji button */
 /* [aria-label="Select emoji"] {
+    display: none;
+} */
+
+/* Direct Messages */
+
+/* Friends Menu */
+/* Uncomment to hide the friends menu */
+/* [href="/channels/@me"] {
+    display: none;
+} */
+
+/* Library Menu */
+/* Uncomment to hide the library button */
+/* [href="/library"] {
     display: none;
 } */
 
