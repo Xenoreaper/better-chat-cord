@@ -17,6 +17,7 @@ Here is [No Text To Speech's video](https://www.youtube.com/watch?v=0_pAg_gV6Kw)
 On it's own? Nothing. <br>
 It makes things Discord think are important invisible. <br>
 Things you can hide:
+- Friends tab
 - Library tab
 - Nitro tab
 - Shop tab (default)
