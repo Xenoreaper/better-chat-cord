@@ -26,6 +26,7 @@ Things you can hide:
 - Sticker picker (default)
 - Emoji picker
 - Apps button (default)
+- Chat attachments/options button
 
 If you just want to hide what I'm hiding (Shop, Nitro gifting, Sticker button, Apps button) then you can just use this link: <br>
 ```
